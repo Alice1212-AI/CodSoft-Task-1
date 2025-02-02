@@ -19,9 +19,10 @@ Usage:
 
 Place your image in the working directory.
 Update the image_path in generate_caption(image_path).
-Run the script:
 
+Run the script:
 python script.py
+
 The generated caption will be printed in the console.
 
 Example Output:
