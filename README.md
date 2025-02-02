@@ -4,7 +4,7 @@ Image Captioning Using BLIP:
 
 This project uses the BLIP (Bootstrapped Language-Image Pretraining) model to generate captions for images. It leverages the Hugging Face transformers library to process and analyze images, automatically producing descriptive text.
 
-Features:
+# Features:
 
 ✅ Loads and displays images using matplotlib
 
@@ -14,21 +14,21 @@ Features:
 
 ✅ Simple and easy-to-use script
 
-Install dependencies:
+# Install dependencies:
 
 pip install transformers pillow matplotlib
 
-Usage:
+# Usage:
 
 Place your image in the working directory.
 Update the image_path in generate_caption(image_path).
 
-Run the script:
+# Run the script:
 python script.py
 
 The generated caption will be printed in the console.
 
-Example Output:
+# Example Output:
 
 Input Image:
 (Displayed using Matplotlib)
@@ -36,7 +36,7 @@ Input Image:
 Generated Caption:
 "A dog sitting on the grass with a ball."
 
-Dependencies:
+# Dependencies:
 
 * transformers
 * PIL (Pillow)
