@@ -7,8 +7,11 @@ This project uses the BLIP (Bootstrapped Language-Image Pretraining) model to ge
 Features:
 
 ✅ Loads and displays images using matplotlib
+
 ✅ Generates captions using BLIP (BlipProcessor & BlipForConditionalGeneration)
+
 ✅ Supports various image formats
+
 ✅ Simple and easy-to-use script
 
 Install dependencies:
