@@ -1,5 +1,7 @@
-#CodSoft-Task-1-Image-Captioning-
+# CodSoft-Task-1-Image-Captioning-
+
 Image Captioning Using BLIP:
+
 This project uses the BLIP (Bootstrapped Language-Image Pretraining) model to generate captions for images. It leverages the Hugging Face transformers library to process and analyze images, automatically producing descriptive text.
 
 Features:
