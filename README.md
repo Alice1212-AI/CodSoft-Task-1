@@ -36,6 +36,14 @@ Input Image:
 Generated Caption:
 "A dog sitting on the grass with a ball."
 
+# Demo
+
+![image](https://github.com/user-attachments/assets/d45eb49e-2d79-4174-9516-b600fe5abff4)
+
+![image](https://github.com/user-attachments/assets/2e6bd2f4-f5f6-4b1e-8e85-d8facb1f3719)
+
+
+
 # Dependencies:
 
 * transformers
